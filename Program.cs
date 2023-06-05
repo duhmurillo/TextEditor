@@ -48,8 +48,8 @@ namespace TextEditor
         static void Editar()
         {
             Console.Clear();
-            Console.WriteLine("Digite seu texto abaixo (ESC para sair)");
-            Console.WriteLine("----------------");
+            Console.WriteLine("Digite seu texto abaixo (Pressione a tecla 'ESC' para sair)");
+            Console.WriteLine("================");
             string text = "";
 
             do
