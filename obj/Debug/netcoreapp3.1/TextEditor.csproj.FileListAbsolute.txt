@@ -1,0 +1,14 @@
+C:\duhmurilloRepo\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\duhmurilloRepo\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\duhmurilloRepo\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\duhmurilloRepo\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\duhmurilloRepo\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\duhmurilloRepo\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\duhmurilloRepo\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.AssemblyReference.cache
+C:\duhmurilloRepo\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\duhmurilloRepo\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\duhmurilloRepo\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\duhmurilloRepo\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\duhmurilloRepo\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\duhmurilloRepo\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\duhmurilloRepo\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
